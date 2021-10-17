@@ -1,0 +1,57 @@
+<!-- <script src="webjars/jquery/3.4.0/jquery.min.js"></script>
+	<script src="webjars/bootstrap/4.3.0/js/bootstrap.min.js"></script>
+	<script
+		src="webjars/bootstrap-datepicker/1.6.4/js/bootstrap-datepicker.js"></script>
+<script>
+		$('#targetDate').datepicker({
+			format : 'dd/mm/yyyy'
+		});
+	</script>
+	
+</body>
+</html>
+
+ -->
+
+	<script src="webjars/jquery/3.4.0/jquery.min.js"></script>
+	<script src="webjars/bootstrap/4.3.0/js/bootstrap.min.js"></script>
+	<script
+		src="webjars/bootstrap-datepicker/1.6.4/js/bootstrap-datepicker.js"></script>
+	<script>
+		$('#DOB').datepicker({
+			format : 'dd/mm/yyyy'
+		});
+	</script>
+	
+	
+	
+	<!-- <nav class="navbar fixed-bottom navbar-expand-md navbar-dark" style="background-color: #0033A0;">
+		<footer> <a href="#" style="float: right; margin-left: 750px; color: #00B242;">Back
+				to top</a> &nbsp&nbsp&nbsp <a href="#" style="color: #00B242;">Privacy</a>
+			&middot; &nbsp&nbsp&nbsp <a href="#" style="color: #00B242;">Terms</a>
+		</footer>
+	</nav>
+	 -->
+
+<footer  style="margin-bottom:0;">
+<div style="align-content: center;" class="navbar-dark bg-secondary">
+	<element>
+		
+		<center>Contact us:</center>
+		<br><br>
+		<center><i class="fas fa-phone"></i> +91 987-765-4442</center>
+		<center><i class="far fa-envelope"></i> repairservicefeedback@repair.com</center>
+		<center><i class="fas fa-map-marker-alt	"></i> Coimbatore,Tamil Nadu.</center>
+		<center>Follow us on:</center>
+		<center><a><i class="fab fa-facebook-f"></i>FaceBook</a>&#160;&#160;<a><i class="fab fa-twitter"></i>Twitter</a>&#160;&#160;<a><i class="fab fa-instagram"></i>Instagram</a></center>
+	</element>
+
+
+</div>
+
+</footer>
+
+</body>
+
+
+</html>
